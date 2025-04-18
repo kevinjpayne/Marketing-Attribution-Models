@@ -40,4 +40,4 @@ The functions within this project will generate two distinct dataframe outputs:
 
 ## Getting Started
 
-A simple demonstration script (test.py) with sample data is located in the 'example' folder.
+A simple demonstration script (get_attribution_weights.py) with sample data is located in the 'example' folder.
