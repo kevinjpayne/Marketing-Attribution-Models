@@ -19,7 +19,7 @@ var/
 *.egg
 .env
 .venv
-.vscode
+.vscode/
 .test
 venv/
 ENV/
