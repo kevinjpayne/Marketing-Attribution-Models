@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np 
 from attribution.main import get_conversion_attribution_weights
 
-df = pd.read_csv('example/attribution_model_sample.csv')
+df = pd.read_csv('example/sample_conversion_data.csv')
 
 output_wide, output_long = get_conversion_attribution_weights(df)
 
