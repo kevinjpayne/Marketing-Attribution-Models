@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Attribution Module",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test/test.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "env": {"PYTHONPATH": "${workspaceFolder}/venv/bin/python"}
+        }
+    ]
+}
